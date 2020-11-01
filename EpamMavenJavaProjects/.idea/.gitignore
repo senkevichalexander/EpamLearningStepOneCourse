@@ -1,0 +1,61 @@
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+/.vs
+/Test1/.vs/Test1/v16/.suo
+/Test1/Test1/bin/Debug/netcoreapp3.1
+/Test1/Test1/obj/Debug/netcoreapp3.1
+/Test1/Test1/obj
+/Test2/.vs/Test2/v16
+/Test2/Test2/bin/Debug/netcoreapp3.1
+/Test2/Test2/obj
+/Test1/.vs/Test1/DesignTimeBuild
